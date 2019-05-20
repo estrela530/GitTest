@@ -1,4 +1,4 @@
 void testfunction()
 {
-	printf("testtest");
+	printf("’¹‚É‚È‚è‚½‚¢");
 }
